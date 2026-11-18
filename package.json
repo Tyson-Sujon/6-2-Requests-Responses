@@ -1,12 +1,11 @@
 {
-  "name": "works",
+  "name": "6-2-Requests-Responses",
   "version": "1.0.0",
   "description": "",
   "main": "server.ts",
   "scripts": {
     "dev": "tsx watch ./src/server.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
-    
   },
   "keywords": [],
   "type": "module",
