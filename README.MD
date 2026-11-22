@@ -43,3 +43,11 @@ To run typescript in node js: npm i tsx
 
 6-2: Route Handling with HTTP Requests \& Responses
 
+
+
+
+
+**IncomingMessage:** to request something from server \[ENDPOINT find kore e.g. /;/products; /courses]
+
+**ServerResponse:** something coming from server.
+
