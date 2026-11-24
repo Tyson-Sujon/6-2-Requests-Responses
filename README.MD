@@ -47,7 +47,21 @@ To run typescript in node js: npm i tsx
 
 
 
-**IncomingMessage:** to request something from server \[ENDPOINT find kore e.g. /;/products; /courses]
+**IncomingMessage (obj):** to request something from server \[ENDPOINT find kore e.g. /;/products; /courses]
 
-**ServerResponse:** something coming from server.
+**ServerResponse(obj):** something coming from server.
+
+**HTTP Header:**Client ও Server-এর মধ্যে Request/Response-এর অতিরিক্ত তথ্য বহন করে e.g:dtstud 200,'Content-Type',etc.
+
+
+
+localhost:5000/product ====> "/product" ata holo prefix
+
+
+
+JSON.stringify() ====> "json chunk method" 
+
+url?.startsWith("/products") ====> "url er endpoint er prefix nea kaj kore"
+
+
 
